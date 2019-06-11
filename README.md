@@ -131,4 +131,4 @@ Summary report @ 13:50:27(-0500) 2019-06-11
     0: 100
 ```
 
-Play with the code!
+Play with the code! :smile:
